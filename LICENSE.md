@@ -1,4 +1,4 @@
-
+PureVPN elite Client: NAT-firewall & kill-switch offers the most advanced PureVPN client, with NAT-firewall and kill-switch. Ideal for users who value privacy and security.
 
 
 
